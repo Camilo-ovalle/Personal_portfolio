@@ -1,0 +1,25 @@
+{
+  "name": "personal_portfolio",
+  "version": "1.0.0",
+  "description": "CAmilo ovalle´s personal portfolio (firts edition)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Camiloco345/Personal_portfolio.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "javascript",
+    "react"
+  ],
+  "author": "camilo.enrique.ovalle@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Camiloco345/Personal_portfolio/issues"
+  },
+  "homepage": "https://github.com/Camiloco345/Personal_portfolio#readme"
+}
