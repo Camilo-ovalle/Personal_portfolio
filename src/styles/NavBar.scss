@@ -1,6 +1,10 @@
 nav{
-    background-color: #AAFCB8;
-    padding: 5px 24px;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    height: 45px;
+    background-image: linear-gradient(to bottom right, #2DE1FC, #09E85E);
+    padding: 0px 24px;
     border-bottom: 1px solid
 }
 
