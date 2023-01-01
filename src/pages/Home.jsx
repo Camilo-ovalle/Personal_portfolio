@@ -1,8 +1,12 @@
+import '../styles/Global.css';
+import '../styles/Home.scss';
+
 function Home() {
 
     return(
-      <div>
-        Hi! I camilo Ovalle junior DEV
+      <div className="mainDescription">
+        <p>Hi! I´m Camilo Ovalle,</p>
+        <p>junior Dev</p>
       </div>   
     )  
 }
