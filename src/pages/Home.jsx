@@ -5,8 +5,7 @@ function Home() {
 
     return(
       <div className="mainDescription">
-        <p>Hi! I´m Camilo Ovalle,</p>
-        <p>junior Dev</p>
+        <p className='font-cursive text-white text-5xl pr-10'>Hi! I´m Camilo Ovalle,junior DEV</p>
       </div>   
     )  
 }

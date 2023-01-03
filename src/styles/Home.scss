@@ -1,3 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
 .mainDescription{
     background-image: url('../assets/backGround.png');
     width: 100%;
@@ -6,12 +12,4 @@
     display: flex;
     justify-content: right;
     align-items: center;
-}
-
-p{
-    font-family: cursive;
-    font-size: 50px;
-    color: aliceblue;
-    margin: 0px;
-    display: block;
 }
